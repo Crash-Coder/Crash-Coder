@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Crash-Coder
 - 👀 I’m interested in C++, Java, JavaScript, Python.
-- 🌱 I’m currently learning C++ & HTML
+- 🌱 I’m currently learning C++, JavaScript & HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
